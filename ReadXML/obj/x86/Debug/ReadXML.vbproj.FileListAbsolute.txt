@@ -1,0 +1,9 @@
+D:\Original\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+D:\Original\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+D:\Original\ReadXML\ReadXML\bin\Debug\ReadXML.xml
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.Resources.resources
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.vbproj.GenerateResource.Cache
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.exe
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.xml
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.pdb
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.frmReadXML.resources
