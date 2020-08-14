@@ -9,6 +9,7 @@
     Public TotalDeducciones As Double
     Public TotalOtrosPagos As Double
 
+
     Sub New()
         Version = ""
         TipoNomina = ""
@@ -21,5 +22,29 @@
         TotalOtrosPagos = ""
 
     End Sub
+
+    Sub New(
+            ByVal Version As String,
+            ByVal TipoNomina As String,
+            ByVal FechaPago As String,
+            ByVal FechaFechaInicialPago As String,
+            ByVal FechaFinalPago As String,
+            ByVal NumDiasPagados As String,
+            ByVal TotalPercepciones As Double,
+            ByVal TotalDeducciones As Double,
+            ByVal TotalOtrosPagos As Double)
+
+        Version = Version
+        TipoNomina = TipoNomina
+        FechaPago = FechaPago
+        FechaFechaInicialPago = FechaFechaInicialPago
+        FechaFinalPago = FechaFinalPago
+        NumDiasPagados = NumDiasPagados
+        TotalPercepciones = TotalPercepciones
+        TotalDeducciones = TotalDeducciones
+        TotalOtrosPagos = TotalOtrosPagos
+
+    End Sub
+
 
 End Class

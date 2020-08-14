@@ -75,6 +75,10 @@
     <Compile Include="CFDI\Comprobante.vb" />
     <Compile Include="CFDI\Emisor.vb" />
     <Compile Include="CFDI\Nomina.vb" />
+    <Compile Include="CFDI\NominaE.vb" />
+    <Compile Include="CFDI\NominaR.vb" />
+    <Compile Include="CFDI\OtrosPagos.vb" />
+    <Compile Include="CFDI\Percepciones.vb" />
     <Compile Include="CFDI\Receptor.vb" />
     <Compile Include="CFDI\TimbreFiscalDigital.vb" />
     <Compile Include="frmReadXML.vb">
