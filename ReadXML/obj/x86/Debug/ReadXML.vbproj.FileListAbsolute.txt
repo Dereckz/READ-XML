@@ -7,3 +7,6 @@ D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.exe
 D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.xml
 D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.pdb
 D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.frmReadXML.resources
+D:\Original\ReadXML\ReadXML\bin\Debug\ClosedXML.dll
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.vbprojResolveAssemblyReference.cache
+D:\Original\ReadXML\ReadXML\obj\x86\Debug\ReadXML.login.resources

@@ -8,7 +8,7 @@
     Public TipoJornada As String
     Public TipoRegimen As String
     Public NumEmpleado As String
-    Public Puesto As Int32
+    Public Puesto As String
     Public RiesgoPuesto As Int16
     Public PeriodicidadPago As String
     Public SalarioDiarioIntegrado As Double
@@ -44,7 +44,7 @@
             ByVal TipoJornada As String,
             ByVal TipoRegimen As String,
             ByVal NumEmpleado As String,
-            ByVal Puesto As Int32,
+            ByVal Puesto As String,
             ByVal RiesgoPuesto As Int16,
             ByVal PeriodicidadPago As String,
             ByVal SalarioDiarioIntegrado As Double,

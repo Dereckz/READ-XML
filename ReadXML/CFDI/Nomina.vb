@@ -1,5 +1,5 @@
 ﻿Public Class Nomina
-    Public Version As String
+    Public VersionN As String
     Public TipoNomina As String
     Public FechaPago As String
     Public FechaFechaInicialPago As String
@@ -11,7 +11,7 @@
 
 
     Sub New()
-        Version = ""
+        VersionN = ""
         TipoNomina = ""
         FechaPago = ""
         FechaFechaInicialPago = ""
@@ -19,12 +19,12 @@
         NumDiasPagados = ""
         TotalPercepciones = 0
         TotalDeducciones = 0
-        TotalOtrosPagos = ""
+        TotalOtrosPagos = 0
 
     End Sub
 
     Sub New(
-            ByVal Version As String,
+            ByVal VersionN As String,
             ByVal TipoNomina As String,
             ByVal FechaPago As String,
             ByVal FechaFechaInicialPago As String,
@@ -34,7 +34,7 @@
             ByVal TotalDeducciones As Double,
             ByVal TotalOtrosPagos As Double)
 
-        Version = Version
+        VersionN = VersionN
         TipoNomina = TipoNomina
         FechaPago = FechaPago
         FechaFechaInicialPago = FechaFechaInicialPago
